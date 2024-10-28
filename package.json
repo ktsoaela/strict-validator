@@ -1,0 +1,30 @@
+{
+  "name": "strict-validator",
+  "version": "1.0.0",
+  "description": "Validator for developers who want to ensure users and testers cannot bypass, manipulate, or introduce errors in data validation. Built for strict enforcement of rules to guarantee data integrity and security in applications.",
+  "main": "index.js",
+  "scripts": {
+     "test": "jest"
+  },
+  "author": "Khotso Tsoaela",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ktsoaela/strict-validator.git"
+  },
+  "keywords": [
+    "validation",
+    "strict",
+    "validators",
+    "forms",
+    "form",
+    "validation"
+  ],
+  "bugs": {
+    "url": "https://github.com/ktsoaela/strict-validator/issues"
+  },
+  "homepage": "https://github.com/ktsoaela/strict-validator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
